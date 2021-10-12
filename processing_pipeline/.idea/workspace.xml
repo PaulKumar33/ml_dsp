@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a6fd7cb-a2b4-445f-8976-77442a2b2f50" name="Default Changelist" comment="" />
+    <list default="true" id="4a6fd7cb-a2b4-445f-8976-77442a2b2f50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processing_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210620_tx2rx_screening.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/20210620_tx2rx_screening.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processing_pipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/processing_pipeline.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processing_pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/processing_pipeline.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1z3yRSrh6y3bGKSzyiZn1DbBZqg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="processing_pipeline" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -77,21 +89,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="936" height="281" key="GridCell.Tab.0.bottom" timestamp="1633395840481">
+    <state width="1899" height="227" key="GridCell.Tab.0.bottom" timestamp="1633900961148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1633395840481" />
-    <state width="936" height="281" key="GridCell.Tab.0.center" timestamp="1633395840480">
+    <state width="1899" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1633900961148" />
+    <state width="1899" height="227" key="GridCell.Tab.0.center" timestamp="1633900961148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1633395840480" />
-    <state width="936" height="281" key="GridCell.Tab.0.left" timestamp="1633395840479">
+    <state width="1899" height="227" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1633900961148" />
+    <state width="1899" height="227" key="GridCell.Tab.0.left" timestamp="1633900961148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1633395840479" />
-    <state width="936" height="281" key="GridCell.Tab.0.right" timestamp="1633395840480">
+    <state width="1899" height="227" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1633900961148" />
+    <state width="1899" height="227" key="GridCell.Tab.0.right" timestamp="1633900961148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1633395840480" />
+    <state width="1899" height="227" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1633900961148" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1633901009063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1633901009063" />
   </component>
 </project>
